@@ -70,5 +70,5 @@ Fiber Volume Fraction is a critical quality metric in composite manufacturing, d
 
 ## Author
 
-**Renan Portel**
+**Renan Portela**
 PhD in Mechanical Engineering — Composite Structures Manufacturing Processes
